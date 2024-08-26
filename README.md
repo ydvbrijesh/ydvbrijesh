@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ydvbrijesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking for an internship
+- 💞️ I’m looking for an internship or a full time
 - 📫 How to reach me via whatsapp(9991841429)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
